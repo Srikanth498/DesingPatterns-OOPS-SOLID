@@ -16,7 +16,12 @@ namespace DesingPatterns_OOPS_SOLID.OopPrinciples.Encapsulation
         }
         public decimal GetBalance()
         {
-            return balance; 
+            return balance;
+        }
+
+        public void SetBalance(decimal balance)
+        {
+            this.balance = balance;
         }
 
         public void Deposit(decimal amount)
