@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPatterns&OOPS&SOLID", "DesingPatterns&OOPS&SOLID\DesingPatterns&OOPS&SOLID.csproj", "{E8012F7A-8B25-4E09-B966-4035354B08E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8012F7A-8B25-4E09-B966-4035354B08E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8012F7A-8B25-4E09-B966-4035354B08E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8012F7A-8B25-4E09-B966-4035354B08E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8012F7A-8B25-4E09-B966-4035354B08E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD843ED8-B754-4979-ADF1-22C4F9FBC72F}
+	EndGlobalSection
+EndGlobal
